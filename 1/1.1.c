@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 /********************************/
 /*				*/
 /* L -> minus			*/
@@ -10,6 +11,7 @@
 /* 	calculation equals 0	*/
 /*				*/
 /********************************/
+
 
 int main() {
 	int sum = 50;
